@@ -1,2 +1,2 @@
 # ChaOS
- A software to help disabled people
+The Assistive Computing Platform is an innovative software solution designed to empower individuals with disabilities to use computers effectively. This platform integrates a variety of assistive technologies and customizable interfaces to cater to the unique needs of users with physical, visual, auditory, and cognitive impairments. By providing an inclusive digital environment, the platform enhances accessibility, independence, and productivity for all users.
